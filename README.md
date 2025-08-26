@@ -50,3 +50,17 @@ function messagebox(msg) {
 
 [이모지 사이트](http://www.webfx.com/tools/emoji-cheat-sheet)
 
+
+### 순서가 있는 작업
+1. 요구사항 수집 및 분석
+1. 요구기능 정의
+1. 개념 설계
+1. 물리 설계
+   1. 물리 모델링
+   2. 물리 검증
+2. 기능 구현
+3. 기능 테스트
+4. 빌드
+5. 배포 
+
+123
